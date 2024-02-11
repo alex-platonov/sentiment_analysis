@@ -18,3 +18,6 @@
 !pip install gensim  # Gensim: unsupervised topic modeling and more NLP.
 !pip install transformers  # Transformers: BERT ML models for NLP from Hugging Face.
 !pip install torch  # PyTorch: ML and ML.
+!pip install htmldate
+!pip install twython
+!pip3 install newspaper3k
