@@ -1,4 +1,4 @@
-# Sentiment analysis of the stock-related news articles and its effect on the next day price variation.
+# Sentiment analysis of the stock-related news articles and its effect on the next day price variation. (WIP)
 
 ## 1. (Quasi) Scientific goal 
 This personal project's ultimate goal is to explore the possibility of sentiment analysis usage in live stock market price variation prediction.
